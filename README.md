@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Eren%20Aybulus&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Data%20%26%20ML%20%E2%80%94%20fraud%2C%20credit%20risk%2C%20markets&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Eren Aybulus — Data & ML"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Eren%20Aybulus&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Data%20and%20ML%20%7C%20Fraud%20%C2%B7%20Credit%20Risk%20%C2%B7%20Markets&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Eren Aybulus, Data and ML"/>
 
 <p align="center">
   <a href="https://github.com/SqualidRat560">
@@ -104,10 +104,6 @@ Does a borrower's state add predictive signal on top of income, DTI and grade? I
 ### 📊 Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SqualidRat560&layout=compact&langs_count=6&theme=transparent&title_color=2c9cb0&text_color=c9d1d9&hide_border=true">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SqualidRat560&layout=compact&langs_count=6&theme=transparent&title_color=2c5364&text_color=24292f&hide_border=true" alt="Top languages"/>
-  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SqualidRat560&theme=transparent&hide_border=true&ring=2c9cb0&fire=2c9cb0&currStreakLabel=2c9cb0&stroke=30363d&background=00000000&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9">
     <img height="165" src="https://streak-stats.demolab.com?user=SqualidRat560&theme=transparent&hide_border=true&ring=2c5364&fire=2c9cb0&currStreakLabel=2c5364&background=00000000&sideNums=24292f&sideLabels=57606a&dates=57606a&currStreakNum=24292f" alt="GitHub streak"/>
